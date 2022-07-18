@@ -15,3 +15,5 @@ Built a CNN with:
 Used the Adam Optimizer.
 
 Used the Cross-entropy Loss Function
+
+Achieved 98.8% accuracy
